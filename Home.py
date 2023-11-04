@@ -37,4 +37,4 @@ with col2:
         st.header(row["title"])
         st.write(row["description"])
         i = row["image"]
-        st.image(f"images\{i}")
+        st.image(f"images/{i}")
