@@ -11,7 +11,7 @@ Enjoy!
 """
 
 with ab1:
-    st.image("images/me.jpeg",width=250)
+    st.image("me.jpeg",width=250)
 
 with ab2:
     st.title("Sohan Katragadda")
