@@ -11,7 +11,7 @@ Enjoy!
 """
 
 with ab1:
-    st.image("images\me.png",width=300)
+    st.image("images\me.jpeg",width=250)
 
 with ab2:
     st.title("Sohan Katragadda")
@@ -19,7 +19,7 @@ with ab2:
 
 st.text("Below are my photographs!")
 
-col1, col2 = st.columns(2)
+col1,empty_col, col2 = st.columns([1.5,0.5,1.5])
 
 df = pandas.read_csv("stuff.csv", sep=";")
 
