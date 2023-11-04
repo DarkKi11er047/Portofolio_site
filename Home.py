@@ -30,7 +30,7 @@ with col1:
         st.header(row["title"])
         st.write(row["description"])
         i = row["image"]
-        st.image(f"images\{i}")
+        st.image(f"images/{i}")
 
 with col2:
     for index, row in df[1:9:2].iterrows():
