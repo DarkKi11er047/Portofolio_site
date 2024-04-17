@@ -25,6 +25,7 @@ Even though it's an extremely cliched line, it did open up a whole new world for
 This is something I definitely want to keep working on and have fun with
 
 New Portfolio:- https://1drv.ms/f/s!Any01Ygv8cwTjimUaNIWyUHhvfMI?e=clDh6D
+CV:- https://docs.google.com/document/d/1E60alrLU1Et6qrcqAQKlptmAcya4uh9uiKLp_qlldxc/edit?usp=sharing
 """
 
 with ab1:
