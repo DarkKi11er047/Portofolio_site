@@ -23,6 +23,8 @@ I was hooked.
 In the 6 months since I started, I have consumed loads and loads of information, from the technical aspects of film to even portraits by Raja Ravi Varma to open my mind on how I look at things.
 Even though it's an extremely cliched line, it did open up a whole new world for me- a way to show others what I saw, what I felt.
 This is something I definitely want to keep working on and have fun with
+
+New Portfolio:- https://1drv.ms/f/s!Any01Ygv8cwTjimUaNIWyUHhvfMI?e=clDh6D
 """
 
 with ab1:
