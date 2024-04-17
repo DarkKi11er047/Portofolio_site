@@ -24,7 +24,7 @@ In the 6 months since I started, I have consumed loads and loads of information,
 Even though it's an extremely cliched line, it did open up a whole new world for me- a way to show others what I saw, what I felt.
 This is something I definitely want to keep working on and have fun with
 
-New Portfolio:- https://1drv.ms/f/s!Any01Ygv8cwTjimUaNIWyUHhvfMI?e=clDh6D
+New Portfolio:- https://1drv.ms/f/s!Any01Ygv8cwTjimUaNIWyUHhvfMI?e=clDh6D\n
 CV:- https://docs.google.com/document/d/1E60alrLU1Et6qrcqAQKlptmAcya4uh9uiKLp_qlldxc/edit?usp=sharing
 """
 
